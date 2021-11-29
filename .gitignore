@@ -1,2 +1,5 @@
 UserData/
-
+bin/data
+*.ipynb
+notes.md
+bin/test.py
